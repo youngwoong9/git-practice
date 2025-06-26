@@ -5,11 +5,12 @@ manager: Brenda
 coach: Ruth
 
 members:
-- Linda
-- William
-- David
-- George
-- Tyler
-- Kim
+  - Linda
+  - William
+  - David
+  - George
+  - Tyler
+  - Kim
 
 fetch: this
+signed: yes
